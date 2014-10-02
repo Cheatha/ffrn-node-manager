@@ -22,7 +22,7 @@ Bitte halte diese Daten aktuell. Du kannst Sie unter [1] pflegen.
 
 Wir hoffen, dass Du gut zurecht gekommen bist und würden uns freuen, wenn Du dich auch persönlich in die Community einbringen würdest. Vielleicht kannst Du ja sogar noch weitere Leute von unserem Projekt überzeugen.
 
-Solltest du Probleme oder Anregungen haben, kannst Du entweder auf diese Email antworten oder uns mittels einer der Kontaktmöglichkeiten im Wiki [1] erreichen.
+Solltest du Probleme oder Anregungen haben, kannst Du entweder auf diese Email antworten oder uns mittels einer der Kontaktmöglichkeiten im Wiki [2] erreichen.
 
 Viele Grüße,
 Freifunk Rhein Neckar
